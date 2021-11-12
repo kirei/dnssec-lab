@@ -18,6 +18,15 @@ is however not present in DNS yet, because that will happen later in the
 lab.
 
 
+## Lab environment
+
+The default lab servers will be runnning [Fedora Linux](https://getfedora.org/). The lab should also work mostly out-of-the-box with RedHat, Rocky and CentOS.
+
+The default editor will `vi`. If you do not feel comfortable using `vi`, you can install [`nano`](https://www.nano-editor.org/) using `sudo dnf install nano`.
+
+N.B. Most commands in the lab should be run as `root` and it is therefore recommended that you start each session with `sudo bash`.
+
+
 ### Connecting to a Server
 
 Use an SSH client (such as OpenSSH or PuTTY) to connect to your servers.
