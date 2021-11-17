@@ -2,7 +2,7 @@
 
 This repository contains DNSSEC lab & training material.
 
-All documents are distributed by Kirei under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) and is based on the [OpenDNSSEC Lab & Training](https://github.com/opendnssec/odslab).
+All documents are distributed by Kirei under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) and is based on the [OpenDNSSEC Lab & Training](https://github.com/opendnssec/odslab). Development of this lab was sponsored by [DK Hostmaster](https://www.dk-hostmaster.dk).
 
 ## Table of Contents
 
