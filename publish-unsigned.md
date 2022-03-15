@@ -29,8 +29,6 @@
         zone:
           - domain: groupX.lab.nxdomain.se
 
-    Also ensure that the server
-
 4. Check that the configuration is valid:
 
         knotc conf-check
