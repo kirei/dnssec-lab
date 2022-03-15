@@ -1,5 +1,7 @@
 # Knot DNSSEC Lab
 
+N.B. As Knot is a bit picky about ordering, remember to add all configuration sections in the order in which they appear in the instructions below.
+
 ## Creating a Policy
 
 We will create a KASP policy named "lab-p256". It uses ridiculously low values on the timing parameters, just so that key rollovers will go faster in this lab environment.
