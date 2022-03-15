@@ -39,10 +39,11 @@ The private key will be given to you by the teacher.
 
 **PuTTY**
 
--   Convert the key to PuTTY format using the PuTTYgen, save the result
-    to student.ppk
--   Enter address to server.
--   Use the student.ppk for authentication and log in as the user "fedora".
+- Install the [latest version of Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+- Convert the key to PuTTY format using the PuTTYgen, save the result
+  to student.ppk
+- Enter address to server.
+- Use the student.ppk for authentication and log in as the user "fedora".
 
 
 ### Documentation
