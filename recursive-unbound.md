@@ -9,7 +9,7 @@ should install only one of the resolvers -- not all of them.
 
         hostnamectl set-hostname resolverX.lab.nxdomain.se
 
-3.  Login and logout to get an updated command prompt.
+3.  Logout and login to get an updated command prompt.
 
 4.  Upgrade base operating system:
 
