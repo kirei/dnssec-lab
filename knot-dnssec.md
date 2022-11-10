@@ -131,7 +131,7 @@ The zone is now signed and we have verified that DNSSEC is working. It is now ti
 
 4. Wait until the DS has been uploaded. Check the DS with the following command:
 
-        dig @ns.lab.nxdomain.se groupX.lab.nxdomain.se DS
+        dig @nsX.lab.nxdomain.se groupX.lab.nxdomain.se DS
 
 5. As of now, we must manually tell the signer that the KSK has been submitted. Later on we will configure the signer to automatically scan for new DS records. After the signer knows the DS is in place at the parent, the initial key usage period will commence.
 
