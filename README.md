@@ -18,8 +18,5 @@ All documents are distributed by Kirei under a [Creative Commons Attribution-Sha
 
 ## Useful Information
 
-It is always good to follow the latest discussions and development within DNSSEC and OpenDNSSEC.
-
 - [Knot DNS](https://www.knot-dns.cz/)
-- [DNSSEC Deployment Mailing List](https://dnssec-deployment.org/mailman/listinfo/dnssec-deployment)
 - [CircleID on DNSSEC](http://www.circleid.com/topics/dnssec)
